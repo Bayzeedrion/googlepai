@@ -1,0 +1,46 @@
+[29-Nov-2024 15:09:35 UTC] PHP Warning:  require(../vendor/autoload.php): Failed to open stream: No such file or directory in /home/itplicbi/tools.itplic.biz/admin/index.php on line 9
+[29-Nov-2024 15:09:35 UTC] PHP Warning:  require(../vendor/autoload.php): Failed to open stream: No such file or directory in /home/itplicbi/tools.itplic.biz/admin/index.php on line 9
+[29-Nov-2024 15:09:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/itplicbi/tools.itplic.biz/admin/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/itplicbi/tools.itplic.biz/admin/index.php on line 9
+[29-Nov-2024 15:14:51 UTC] PHP Warning:  require(../vendor/autoload.php): Failed to open stream: No such file or directory in /home/itplicbi/tools.itplic.biz/admin/index.php on line 9
+[29-Nov-2024 15:14:51 UTC] PHP Warning:  require(../vendor/autoload.php): Failed to open stream: No such file or directory in /home/itplicbi/tools.itplic.biz/admin/index.php on line 9
+[29-Nov-2024 15:14:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/itplicbi/tools.itplic.biz/admin/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/itplicbi/tools.itplic.biz/admin/index.php on line 9
+[29-Nov-2024 15:15:29 UTC] PHP Warning:  require(/tools.itplic.biz/vendor/vendor/autoload.php): Failed to open stream: No such file or directory in /home/itplicbi/tools.itplic.biz/admin/index.php on line 10
+[29-Nov-2024 15:15:29 UTC] PHP Warning:  require(/tools.itplic.biz/vendor/vendor/autoload.php): Failed to open stream: No such file or directory in /home/itplicbi/tools.itplic.biz/admin/index.php on line 10
+[29-Nov-2024 15:15:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/tools.itplic.biz/vendor/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/itplicbi/tools.itplic.biz/admin/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/itplicbi/tools.itplic.biz/admin/index.php on line 10
+[29-Nov-2024 15:30:52 UTC] PHP Warning:  require(./vendor/autoload.php): Failed to open stream: No such file or directory in /home/itplicbi/tools.itplic.biz/admin/index.php on line 10
+[29-Nov-2024 15:30:52 UTC] PHP Warning:  require(./vendor/autoload.php): Failed to open stream: No such file or directory in /home/itplicbi/tools.itplic.biz/admin/index.php on line 10
+[29-Nov-2024 15:30:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/itplicbi/tools.itplic.biz/admin/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/itplicbi/tools.itplic.biz/admin/index.php on line 10
+[29-Nov-2024 15:33:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'itplicbi'@'localhost' (using password: NO) in /home/itplicbi/tools.itplic.biz/admin/index.php:11
+Stack trace:
+#0 /home/itplicbi/tools.itplic.biz/admin/index.php(11): PDO->__construct()
+#1 {main}
+  thrown in /home/itplicbi/tools.itplic.biz/admin/index.php on line 11
+[29-Nov-2024 15:40:18 UTC] PHP Warning:  Undefined array key "DB_HOST" in /home/itplicbi/tools.itplic.biz/config.php on line 8
+[29-Nov-2024 15:40:18 UTC] PHP Warning:  Undefined array key "DB_NAME" in /home/itplicbi/tools.itplic.biz/config.php on line 9
+[29-Nov-2024 15:40:18 UTC] PHP Warning:  Undefined array key "DB_USER" in /home/itplicbi/tools.itplic.biz/config.php on line 10
+[29-Nov-2024 15:40:18 UTC] PHP Warning:  Undefined array key "DB_PASSWORD" in /home/itplicbi/tools.itplic.biz/config.php on line 11
+[29-Nov-2024 15:40:37 UTC] PHP Warning:  Undefined array key "DB_HOST" in /home/itplicbi/tools.itplic.biz/config.php on line 8
+[29-Nov-2024 15:40:37 UTC] PHP Warning:  Undefined array key "DB_NAME" in /home/itplicbi/tools.itplic.biz/config.php on line 9
+[29-Nov-2024 15:40:37 UTC] PHP Warning:  Undefined array key "DB_USER" in /home/itplicbi/tools.itplic.biz/config.php on line 10
+[29-Nov-2024 15:40:37 UTC] PHP Warning:  Undefined array key "DB_PASSWORD" in /home/itplicbi/tools.itplic.biz/config.php on line 11
+[29-Nov-2024 15:40:41 UTC] PHP Warning:  Undefined array key "DB_HOST" in /home/itplicbi/tools.itplic.biz/config.php on line 8
+[29-Nov-2024 15:40:41 UTC] PHP Warning:  Undefined array key "DB_NAME" in /home/itplicbi/tools.itplic.biz/config.php on line 9
+[29-Nov-2024 15:40:41 UTC] PHP Warning:  Undefined array key "DB_USER" in /home/itplicbi/tools.itplic.biz/config.php on line 10
+[29-Nov-2024 15:40:41 UTC] PHP Warning:  Undefined array key "DB_PASSWORD" in /home/itplicbi/tools.itplic.biz/config.php on line 11
+[29-Nov-2024 15:48:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'your_db_user'@'localhost' (using password: YES) in /home/itplicbi/tools.itplic.biz/admin/settings.php:9
+Stack trace:
+#0 /home/itplicbi/tools.itplic.biz/admin/settings.php(9): PDO->__construct()
+#1 {main}
+  thrown in /home/itplicbi/tools.itplic.biz/admin/settings.php on line 9
